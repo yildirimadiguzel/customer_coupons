@@ -18,6 +18,10 @@ The dataset used in this analysis is from the UCI Machine Learning Repository an
 ## Instructions
 1. Clone this repository.
 2. Open the `prompt.ipynb` file in Jupyter Notebook or any compatible IDE.
+3. Ensure you have the required libraries installed. You can install them using:
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Run the cells to reproduce the analysis and visualizations.
 
 ## Tools Used
